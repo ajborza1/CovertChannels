@@ -1,4 +1,5 @@
-# CovertChannels
+# Covert Channels
+Developed by: Anthony Borza, Gary Binder, and Mary Lieb
 
 This research will explore the Create, Read, Update, and Delete (CRUD) operations, and select one of these methods to perform more robust analysis. Once the method is selected, additional analysis will evaluate the general expected performance of this solution, evaluating how to establish a covert timing channel using planned delays. The research will extend to cover the bandwidth, detectability, and robustness of the channel. 
 
